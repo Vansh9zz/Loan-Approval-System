@@ -1,1 +1,1 @@
-Built an AI model to check whether loans are to be approved or rejected using Supervised Learning Algorithms for Binary Classification - kNN, Logistic Regression
+Built an AI model to check whether loans are to be approved or rejected using Supervised Learning Algorithms for Binary Classification - kNN, Logistic Regression abd Gaussian Naive Bayes

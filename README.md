@@ -1,1 +1,2 @@
-I made an AI model using standard Supervised Learning Classification Algorithms to get accurate predictions for Loan Rejections and Approvals by a bank.
+Built an AI model to check whether loans are to be approved or rejected using Supervised Learning Algorithms for Binary Classification - kNN, Logistic Regression
+

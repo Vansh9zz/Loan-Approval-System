@@ -6,6 +6,9 @@ __pycache__/
 # Tutorial Notebook
 credit_wise.ipynb
 
+# Jupyter
+.ipynb_checkpoints/
+
 # C extensions
 *.so
 
